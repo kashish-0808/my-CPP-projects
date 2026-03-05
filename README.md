@@ -66,3 +66,77 @@ This project was created to practice:
 ## Author
 
 Kashish Khan
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Phonebook Application (C++)
+
+This is a simple C++ console program that works like a basic phonebook system.  
+It allows the user to store contact information and manage it easily using different options.
+
+The program lets the user add new contacts, view all saved contacts, search for a specific contact, and sort the contact list alphabetically.
+
+## Features
+
+* Add new contacts with name and phone number
+* Display all saved contacts
+* Search for a contact by name
+* Sort contacts alphabetically
+* Simple console-based menu system
+
+## How the Program Works
+
+1. The program displays a menu with different options.
+2. The user can choose an operation by entering a number.
+
+Available operations:
+
+* Add Contact
+* Show Contacts
+* Search Contact
+* Sort Contacts
+* Exit
+
+3. When a contact is added, the name and phone number are stored in the program.
+4. The search option finds a contact by name.
+5. The sort option arranges contacts alphabetically.
+
+## Example Output
+
+1. Add Contact  
+2. Show Contacts  
+3. Search Contact  
+4. Sort Contacts  
+5. Exit  
+
+Choice: 1  
+Enter name: Kashish  
+Enter phone number: 123456789  
+
+Contact added successfully.
+
+Choice: 3  
+Enter name to search: Kashish  
+
+Found: Kashish - 123456789
+
+## Technologies Used
+
+* C++
+* Standard Library (vector, string, algorithm)
+* Basic Object-Oriented Programming
+
+## Purpose
+
+This project was created to practice:
+
+* Classes and objects in C++
+* Working with vectors
+* Searching and sorting data
+* Building menu-based console applications
+
+## Author
+
+Kashish Khan
