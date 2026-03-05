@@ -28,16 +28,25 @@ The program checks each document and displays the ones that match the search con
 
 1. Search
 2. Exit
+   Choice: 1
 
-Enter keyword: data
-Filter category:
-Filter date:
+Enter keyword: C++ OOP Concepts
+Filter category (press enter to skip):
+Filter date (press enter to skip):
 
 Document Found
-ID: 1
-Title: Data Structures Basics
-Category: Education
+ID: 2
+Title: C++ OOP Concepts
+Category: Programming
 Date: 2026-03-04
+
+---
+
+1. Search
+2. Exit
+   Choice: 2
+
+Exiting program...
 
 ## Technologies Used
 
